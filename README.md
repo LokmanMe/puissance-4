@@ -12,8 +12,12 @@ Le but est de créer un intelligence artificielle capable de jouer à Puissance 
 
 Les outils suivants ont été utilisés et sont **requis** pour le lancement du programme :
 
-#### Python 3.7 pour la programmation de l’intelligence artificielle qui jouera au Puissance 4 avec :
-#### Tkinter pour la modélisation graphique du plateau du jeu
-#### NetworkX pour la construction de l’arbre du jeu
-#### Numpy pour le calcul scientifique
-#### Matplotlib pour la visualisation
+**Python 3.7** pour la programmation de l’intelligence artificielle qui jouera au Puissance 4
+
+**Tkinter** pour la modélisation graphique du plateau du jeu
+
+**NetworkX** pour la construction de l’arbre du jeu
+
+**Numpy** pour le calcul scientifique
+
+**Matplotlib** pour la visualisation
